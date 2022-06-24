@@ -3,11 +3,11 @@
 #never meant to be shared with anyone besides myself and this software isn't meant to be shared.
 
 
-print("\n")
-print("\n")
-print("\n")
-print("\n")
-print("\n")
+#print("\n")
+#print("\n")
+#print("\n")
+#print("\n")
+#print("\n")
 print("\n")
 print("\n")
 print("\n")
@@ -20,7 +20,7 @@ print("\n")
 print("\n")
 
 name = input("Login: ")
-#input("login: ")
+
 if  name == "joshua":
 	print("Hello proffessor, it's been a long time.\n")
 
